@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trigonall sector, the description and use thereof being an instrument most aptly serving for the resolution of all right lined triangles, with great facility and delight. By which all planimetrical, and altimetrical conclusions may be wrought at pleasure. The lines of sines, tangents, secants, and chords, pricked down on any instrument: many arithmeticall proportions calculated, and found out in a moment. Dialls, delineated upon most sorts of plaines: with many other delightfull conclusions. Lately invented and now exposed to the publique view. By John Chatfeilde.</title>
+            <author>Chatfield, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79434</idno>
+            <idno type="STC">Wing C3735</idno>
+            <idno type="STC">Thomason E1381_1</idno>
+            <idno type="STC">ESTC R209392</idno>
+            <idno type="EEBO-CITATION">99868273</idno>
+            <idno type="PROQUEST">99868273</idno>
+            <idno type="VID">169895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169895)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1381[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trigonall sector, the description and use thereof being an instrument most aptly serving for the resolution of all right lined triangles, with great facility and delight. By which all planimetrical, and altimetrical conclusions may be wrought at pleasure. The lines of sines, tangents, secants, and chords, pricked down on any instrument: many arithmeticall proportions calculated, and found out in a moment. Dialls, delineated upon most sorts of plaines: with many other delightfull conclusions. Lately invented and now exposed to the publique view. By John Chatfeilde.</title>
+                  <author>Chatfield, John.</author>
+               </titleStmt>
+               <extent>[6], 27, [3] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Leybourn, and are to be sold by James Nuthall, over against the George neer Holbourn-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Page 11 mislabelled as page 12.</note>
+                  <note>Annotation on Thomason copy: "Aprill 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trigonometry --  Early works to 1800.</term>
+               <term>Geometry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169895:1" rendition="simple:additions"/>
+            <p>THE TRIGONALL SECTOR, THE Deſcription and uſe thereof: Being an Inſtrument moſt aptly ſerving for the reſolution of all <hi>Right lined Triangles,</hi> with great fa<g ref="char:EOLhyphen"/>cility and delight.</p>
+            <p>
+               <hi>By which all</hi> Planimetrical, <hi>and</hi> Altimetrical <hi>concluſions may be wrought at pleaſure.</hi>
+            </p>
+            <p>The Lines of <hi>Sines, Tangents, Secants,</hi> and <hi>Chords,</hi> pricked down on any Inſtrument: Many Arithmeticall proportions calculated, and found out in a moment. Dialls, delineated upon moſt ſ <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of plaines: with many other delightfull concluſions. Lately invented and now expoſed to the publique view.</p>
+            <p>By John Chatfeilde.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Leybourn,</hi> and are to be ſold by <hi>James Nuthall,</hi> over againſt the <hi>George</hi> neer <hi>Holbourn</hi>-bridge, 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169895:2"/>
+            <pb facs="tcp:169895:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hou</hi> haſt here preſen<g ref="char:EOLhyphen"/>ted to thy view, the deſcription, and uſe of a Geometrical Inſtrument, wher<g ref="char:EOLhyphen"/>by (if thou art yet a learner) thou maiſt be helped abundant<g ref="char:EOLhyphen"/>ly, in the right vnderſtanding of the Doctrine of Triangles,
+<pb facs="tcp:169895:3"/>with greater eaſe: but if thou haſt already waded through the greateſt difficulties, and art a Maſter in this Art, yet doubt not, but thou ſhalt finde ſome<g ref="char:EOLhyphen"/>thing here, which will admi<g ref="char:EOLhyphen"/>ſter unto thee ſome delight, and perchance may inable thee to do thoſe things with greater ſpeed and eaſe, then in the way that thou walkedſt in before, howe<g ref="char:EOLhyphen"/>ver, I intreat thee to take it in good part, from him that deſi<g ref="char:EOLhyphen"/>reth to be</p>
+            <closer>
+               <signed>A Servant unto all for their Advantage, J. C.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:169895:3"/>
+            <pb facs="tcp:169895:4"/>
+            <p>
+               <figure>
+                  <signed>GG. ſulps-</signed>
+                  <figDesc>woodcut depicting the "trigonall sector"</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169895:4"/>
+            <head>Of the Trigonall SECTOR: The deſcription and uſe thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Trigonall <hi>Sector,</hi> is an Inſtrument Geometri<g ref="char:EOLhyphen"/>call containing all varie<g ref="char:EOLhyphen"/>ty of rightlined Trian<g ref="char:EOLhyphen"/>gles, together with the proportions of every ſide betwixt themſelves and to their per<g ref="char:EOLhyphen"/>pendiculars.</p>
+            <p>It conſiſteth of a ſquare plate of metal, or piece of wood, on whoſe edges, round about, are to be fixed certain laminae, or long ſlips that may ſtick up a little above the plate, and two labels at the extremes of one of the ſides, which moving on their ſeverall centers, may be applyed un<g ref="char:EOLhyphen"/>to
+<pb n="2" facs="tcp:169895:5"/>each other, till croſſing one another they make an angle betwixt themſelves: which alwaies ſhall be the complement unto 180 <hi>gr.</hi> of thoſe angles which both the labels make unto the Radius, which is a line drawn directly betwixt their centers.</p>
+            <p>The inſcriptions on the Inſtrument are firſt, three Scales of Lines divided into 100 equall parts, and anſwering unto one another, <hi>(viz.)</hi> on the two labels and the lower lamina that contains the Ra<g ref="char:EOLhyphen"/>dius betwixt the centers of the labels.</p>
+            <p>Secondly, a reverſed Tangent, contain<g ref="char:EOLhyphen"/>ing 45 <hi>gr.</hi> on the lamina on the left hand of the Inſtrument, and 45 more even to 90 <hi>gr.</hi> on the lamina at the top.</p>
+            <p>Thirdly, the Quadrant of a Circle on the inward body of the plate concentri<g ref="char:EOLhyphen"/>call with the label on the left hand, and whoſe limb or ſemidiameter reacheth ex<g ref="char:EOLhyphen"/>actly unto the center of the label on the right hand: ſo that the Radius thereof is juſt the ſame with the Radius divided into 100 parts betwixt the centers of the
+<pb n="3" facs="tcp:169895:5"/>labels. This Quadrant is divided into 90. <hi>gr.</hi> reckoning from the center of the right hand label, and in the area thereof are drawn lines parallel both betwixt themſelves, and with the Radius, exactly correſponding to the diviſions of the Scales of Lines before deſcribed, and marked as all the other three ſcales are with ther proper figures 1.2.3. &amp;c. to 10.</p>
+            <p>Thus much of the generall deſcription of the Inſtrument, the lines conſiſt all of equall parts and therefore need no ta<g ref="char:EOLhyphen"/>bles for their inſcription, except only the reverſed Tangent, which may be done, as is commonly known, by the ordinary tables. Only this muſt be obſerved, that the Tangent of 45 muſt be ſomwhat longer then the ſemidiameter of the Qua<g ref="char:EOLhyphen"/>drant, or the forementioned Radius, be<g ref="char:EOLhyphen"/>cauſe its diſtance from the center of the label at the right hand is greater (by ſo much ſpace as the breadth of the left hand label doth contain) then the ſemi<g ref="char:EOLhyphen"/>diameter is. The label on the right hand being to ſupply the Secant of 45. is long<g ref="char:EOLhyphen"/>er
+<pb n="4" facs="tcp:169895:6"/>then the other label, and reacheth even to that angle of the Inſtrument where the Tangent of 45 is placed, and there<g ref="char:EOLhyphen"/>fore the diviſions upon it are 50 more then the other label (1) 150: yet though they are more in number they corre<g ref="char:EOLhyphen"/>ſpond unto the diviſions of the other, this label being ½ in length more then that, that ſo by it you may ſee the number of parts that a Secant of any degree under 45 ſhal contain of a Radius containing 1000.</p>
+            <p>If the ſcale upon the lower lamina or Radius be ſo drawn as to make an angle at the center of the left hand label with the edge of the lamina, as it is in the line of lines in Mr. <hi>Gunter's Sector,</hi> and another ſcale correſpondent unto it, be inſcribed on the left hand label, theſe 2 Scales ſhall performe all the Propoſitions to be per<g ref="char:EOLhyphen"/>formed by the <hi>Sector</hi> one the line of Lines.</p>
+            <div type="part">
+               <head>Thus much of the deſcription of the In<g ref="char:EOLhyphen"/>ſtrument and its parts: Now of the uſe thereof.</head>
+               <p>THe uſe of this Inſtrument is very great and various, but it conſiſteth
+<pb n="5" facs="tcp:169895:6"/>eſpecially in the reſolution of all ſorts of Rightlined Triangles, unto which all Geometricall concluſions are reducible, and in Arithmeticall proportions or the reſolution of the Golden Rule.</p>
+               <p>In the reſolution of Triangles, 4 things are conſiderable. 1 The quantity of the Angles. 2 The proportions of the ſides or ſubtendents and perpendicular betwixt themſelves. 3 The contents of the area in parts correſpondent to the parts of the ſides. 4 The reduction of thoſe parts to a perpendicular and baſis of another de<g ref="char:EOLhyphen"/>nomination: all which are performed by the Inſtrument in this manner.</p>
+            </div>
+            <div type="part">
+               <head>To finde the quantity of any angle.</head>
+               <p>IF it be in Planimetry, having three ſights placed on the Inſtrument, the firſt at the center of the left hand label, the ſecond at the center of right hand label, &amp; the third at the end of the right hand label, work thus. Lay the Inſtrument upon a Geo<g ref="char:EOLhyphen"/>metricall
+<pb n="6" facs="tcp:169895:7"/>tripos or ſtaffe, as the Semicircle or Circumferentor is uſually laid, by thoſe that meaſure Land, horizontally, then turne it till you can behold one of the markes through the ſights at the center of the labels, afterward turne the right hand label till you ſee the other marke through the ſight at its center, and that which is at the end thereof, and then looking on the Tangent line, you ſhall ſee the angle among the Tangents, where the interſection is of the label and the Tangent.</p>
+               <p>If the angle be above 90 <hi>gr.</hi> then you muſt have foure ſights, and behold the firſt marke through the ſights at the cen<g ref="char:EOLhyphen"/>ter, and the end of the left hand labell, and leaning the Inſtrument at that poſi<g ref="char:EOLhyphen"/>tion, turne the right hand label till you can alſo behold the ſecond mark through its ſights, and then the angle which the two labels make where they croſſe each other ſhall be the angle ſought, which that you may know how great it is, adde together the angle found in the Tangent cut by the right hand label, and that on the Quadrant cut by the left hand, label and ſubſtract
+<pb n="7" facs="tcp:169895:7"/>them both out of 180 <hi>gr.</hi> and you have the angle required.</p>
+               <p>In <hi>Altimetry</hi> work thus, ſet the Inſtru<g ref="char:EOLhyphen"/>ment on one edge upright, ſo as that the lower lamina, containing the diſtance betwixt the centers of the two labels, may ſtand horizontall, and the right and left hand laminae Perpendicular; then lift up the right hand label, till, through the ſights thereof, you can behold the object, and then in the Tangent line ſhall you ſee the angle. This is of uſe to find the altitude of Sun, Moon <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Stars, as alſo the altitude of any Tower, Steeple, Hill, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Two angles being known, to repreſent any Rightlined Triangle.</head>
+               <p>TRiangles of all ſorts are diſtinguiſhed two waies.</p>
+               <p>Firſt, By their ſides, and ſo they are ſaid to be. 1 Equilaterall, having all ſides a like. 2 Equicrurall having only
+<pb n="8" facs="tcp:169895:8"/>two ſides equall; and the third unequall. 3 Scalene, <hi>viz.</hi> Triangles neither of whoſe ſides are equall.</p>
+               <p>Secondly, By their angles, and they are, 1 Rectangular containing one Right-angle. 2 Obtuſeangular wherein one of the angles is obtuſe or greater then a Rightangle, that is above 90 <hi>gr.</hi> 3 A<g ref="char:EOLhyphen"/>cuteangular, wherein all the angles are leſſe then 90 <hi>gr.</hi>
+               </p>
+               <p>Note that the three angles of every Triangle are equall to two Right angles, that is 1 80 <hi>gr.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>To repreſent any Rectangular Triangle.</head>
+               <p>TUrne back the left hand label to the lamina of the Tangent, for then it maketh a right angle with the Radius, then turne the right hand label to the degree of the other known angle in the Tangent line, and ſo the two labels and the Radius ſhall give the Triangle, toge<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:169895:8"/>with the proportions of the ſides betwixt themſelves.</p>
+               <p>As ſuppoſe, the two known angles be 90. and 45. the diſtance betwixt the cen<g ref="char:EOLhyphen"/>ters (1) the Radius will be 100 parts, the right hand label ſhall cut the left hand label alſo in 141 parts.</p>
+               <p>The one of theſe ſides is the Radius, the ſecond a Tangent of 45. equall al<g ref="char:EOLhyphen"/>ways to the Radius, the third, the Secant of 45. being a line drawn from the center through the limbe of the circle till it meet the tangent; if one of the known angles be above 45: and the other 90 <hi>gr.</hi> then place the labell at the tangent of its com<g ref="char:EOLhyphen"/>plement to 90. and then ſhall the parts on the labell on the left hand repreſent the Radius, and the Radius of the Inſtru<g ref="char:EOLhyphen"/>ment ſhall repreſent the tangent, and the labell on the right hand ſhall repre<g ref="char:EOLhyphen"/>ſent the ſecant.</p>
+               <p>Thus ſuppoſing the known angles to be 90. and 63 <hi>gr.</hi> 30′. becauſe if I put the right hand labell to 63 <hi>gr.</hi> 30′ it will not croſſe the left hand labell, I therefore
+<pb n="10" facs="tcp:169895:9"/>take its complement (1) 26 <hi>gr.</hi> 30′. and applying the right hand labell unto this degree in the Tangent, the Triangle comprehended, as in the former example, ſhall be the Triangle required; and the parts diſcovered in every interſection or angle ſhall ſhew the proportion of the Ra<g ref="char:EOLhyphen"/>dius, Tangent, and Secant, as here the Radius that is repreſented by the label on the left hand, ſhall be 500, the Tan<g ref="char:EOLhyphen"/>gent repreſented by the Radius of the In<g ref="char:EOLhyphen"/>ſtrument 1000, and the Secant repreſent<g ref="char:EOLhyphen"/>ed by the right hand label 1120 parts, which if reduced to a Radius of 1000, the proportion holds thus, the Radius 1000, the Tangent 2000, the Secant 2240, which agreeth to the tables of Tangents and Secants, unto a Unit, which is as neer as can be expected by Inſtrument.</p>
+               <p>If one of the known angles be leſſe then 45, and the other 90 <hi>gr.</hi> then you need no more but apply the right hand label to the degree of the Tangent line, and the Radius of the Inſtrument ſhall be the Radius or baſes of the Triangle, and
+<pb n="12" facs="tcp:169895:9"/>the proportions of the other ſides will be ſhewed as aboveſaid.</p>
+            </div>
+            <div type="part">
+               <head>To repreſent any obtuſe angular Triangle.</head>
+               <p>AS ſuppoſe the two known angles be 60 &amp; 100 <hi>gr.</hi> this triangle muſt needs be obtuſe anglar, becauſe 100 <hi>gr.</hi> is more then 90 <hi>gr.</hi> &amp; becauſe neither of the labels can make an angle more then 90 <hi>gr.</hi> therefore the obtuſe angle muſt be found in the interſection of the two labels; there<g ref="char:EOLhyphen"/>fore to find out this triangle work thus, add the two known angles together, and they will make 160: ſubſtract this out of 180, and there remaineth 20, which is the third angle; therefore to repreſent this, put one labell in 20 <hi>gr.</hi> and the other in 60 <hi>gr.</hi> and where they croſſe each other, the interſection ſhall be an angle of 100 <hi>gr.</hi> becauſe all three angles muſt make ex<g ref="char:EOLhyphen"/>actly 180 <hi>gr.</hi> and the labels thus applied give you the Triangle required, and the
+<pb n="12" facs="tcp:169895:10"/>diviſions of the labells in their interſecti<g ref="char:EOLhyphen"/>on together, with the Radius ſhew you the proportions of the three ſides thereof, as in the former examples.</p>
+            </div>
+            <div type="part">
+               <head>To repreſent any Acuteangular Triangle.</head>
+               <p>THis is to be done only by applying the labels unto the degrees of the angles known, both in the tangent line and quadrant.</p>
+               <p>But if any of the angles be above 60 <hi>gr.</hi> then it muſt be ſupplied, by putting one of the labels to the complement of both added together, unto 180 <hi>gr.</hi> as ſuppoſe two known acute angles be 60 and 80: the labels being applied to thoſe degrees in the Tangent and Quadrant, will not meet to croſſe each other; there<g ref="char:EOLhyphen"/>fore put the one label in 60, and the other in 40 <hi>gr.</hi> which is the complement of the ſum of both 140 to 180: and ſo you ſhall have the Triangle required, the pro<g ref="char:EOLhyphen"/>portion
+<pb n="13" facs="tcp:169895:10"/>of whoſe ſides is to be found out as aforeſaid.</p>
+            </div>
+            <div type="part">
+               <head>To find the Content of any of theſe Triangles.</head>
+               <p>TO effect this, the perpendicular muſt be known, which being multi<g ref="char:EOLhyphen"/>plied into half the baſis, the product ſhall give the Area.</p>
+               <p>I have ſhewed before how to find the proportions of every ſide, and ſo by con<g ref="char:EOLhyphen"/>ſequence the length of the baſis; with as great facility is the perpendicular alſo to be found: for when you have applied the labels unto each other, ſo as that the Triangle is by them repreſented, doe but caſt your eye directly into that interſecti<g ref="char:EOLhyphen"/>on, and under the labels amongſt the pa<g ref="char:EOLhyphen"/>rallel lines; you ſhall find the diſtance from the baſis, or the length of the per<g ref="char:EOLhyphen"/>pendicular: which multiplyed as afore<g ref="char:EOLhyphen"/>ſaid, ſhall give the Area.</p>
+               <p>
+                  <hi>Or to work by the Inſtrument, I ſay thus.</hi>
+               </p>
+               <pb n="14" facs="tcp:169895:11"/>
+               <p>As 1 to the Multiplicator,</p>
+               <p>So the Multiplicand, to the Product.</p>
+               <p>Suppoſing then the perpendicular to be 5, and the baſis 10: whoſe half is 5, that is to be multiplyed by the perpendi<g ref="char:EOLhyphen"/>cular.</p>
+               <p>I apply 10 in the left hand labell, (which alſo may be reckoned for 1 or 100 or 1000: as occaſion ſerveth) unto 5, a<g ref="char:EOLhyphen"/>mongſt the parallels, then looking for 5, upon the ſaid labell, I finde it directly meeting with 25 amongſt the parallels, which is the number ſought.</p>
+               <p>And thus may any number be multi<g ref="char:EOLhyphen"/>plied, only remembring to obſerve that the ſame Figures and diviſions ſtand ſometimes for units, ſometimes for de<g ref="char:EOLhyphen"/>cads, 100. 1000, &amp;c. as occaſion ſerveth. So alſo working by the contrary way, may any be divided.</p>
+               <p>For, as the diviſor is to 1;</p>
+               <p>So the dividend, to the quotient.</p>
+               <p>Therefore apply the number belong<g ref="char:EOLhyphen"/>ing to the diviſor on the labell to 1, a<g ref="char:EOLhyphen"/>mongſt the parallels, and then over a<g ref="char:EOLhyphen"/>gainſt
+<pb n="15" facs="tcp:169895:11"/>the number of the dividend in the labell, ſhall be the quotient amongſt the parallels. As if I would divide 9 by 3; here 3. is the diviſor, and 9 the dividend.</p>
+               <p>I therefore bring down the 3: upon the labell, till it come exactly upon the pa<g ref="char:EOLhyphen"/>rallel of 1: and then over againſt 9: which was the dividend, I find the pa<g ref="char:EOLhyphen"/>rallel marked with the figure 3, which is the quotient</p>
+               <p>For 3. is contained in 9. three times.</p>
+               <p>But here is to be noted, that it ſome<g ref="char:EOLhyphen"/>times falleth out more convenient in working proportions on this Inſtrument to find the firſt number amongſt the pa<g ref="char:EOLhyphen"/>rallels, and the ſecond upon the label, and then the third upon the parallels, will exactly anſwer to the 4<hi rend="sup">th</hi> or quotient upon the labell.</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:169895:12"/>
+               <head>To reduce the Area of a Trian<g ref="char:EOLhyphen"/>gle found of one denominati<g ref="char:EOLhyphen"/>on, to a perpendicular and ba<g ref="char:EOLhyphen"/>ſis of another denomination.</head>
+               <p>THe reaſon of the inſerting of this propoſition is, becauſe that in meaſu<g ref="char:EOLhyphen"/>ring of Triangles, whoſe Area we would finde either in Acres, Perches, Yards, Feet, or Inches; it ſeldome falleth out that the perpendicular or baſis meaſured, giveth juſt the ſame number as it doth upon the Inſtrument: yet notwithſtan<g ref="char:EOLhyphen"/>ding the Triangles and their ſides hold proportion unto each other; and therefore there is a neceſſity of working by pro<g ref="char:EOLhyphen"/>portion, to reduce the one into the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>As firſt, ſuppoſing we have a rectangle equicrurall Triangle containing 90.45, 45 <hi>gr.</hi> in its angles on the Inſtrument, the baſis will be 100, and the perpendi<g ref="char:EOLhyphen"/>cular
+<pb n="17" facs="tcp:169895:12"/>100. which perpendicular multipl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<g ref="char:EOLhyphen"/>ed into half the baſis, giveth 5000 for the Area. Now ſuppoſe again, that by meaſure we find the baſis to be but 30, in a Trian<g ref="char:EOLhyphen"/>gle conſiſting of ſuch angles, I ſay then.</p>
+               <q>As 100. the baſis on the Inſtrument to 30. the baſis meaſured.</q>
+               <p>So 100 the perpendicular on the In<g ref="char:EOLhyphen"/>ſtrument, to 30 the perpendicular inquired</p>
+               <p>Which being multiplyed into 15. half the baſis, giveth the Area 450.</p>
+               <p>Or 2. ſuppoſing the Triangle be ſca<g ref="char:EOLhyphen"/>lene, having all its ſides unequall, whoſe angles ſhall be 30 <hi>gr.</hi> 40 <hi>gr.</hi> and 110 <hi>gr.</hi> upon the Inſtrument the baſis will be found to be 100, and the perpendicular about 35.</p>
+               <p>The Queſtion is what the perpendi<g ref="char:EOLhyphen"/>cular ſhall be if the baſes of ſuch a Tri<g ref="char:EOLhyphen"/>angle being meaſured ſhall be 80 perches.</p>
+               <q>
+                  <p>I ſay then, as 100, the baſes on the In<g ref="char:EOLhyphen"/>ſtrument, to 80 perches.</p>
+                  <p>So 35 the perpendicular found, to the perpendicular inquired.</p>
+               </q>
+               <p>Bring down the left hand label there<g ref="char:EOLhyphen"/>fore
+<pb n="18" facs="tcp:169895:13"/>till the figure of 10 come juſt to the parallel of 8, and then juſt over againſt 35 on the label ſhall be found amongſt the parallels, the perpendicular required, <hi>(viz.)</hi> 28; by which multiply halfe the baſes, and the Area will be found 1120.</p>
+               <p>For, As 1. Is 28.</p>
+               <p>So is 40.61 halfe the baſes, to 1120.</p>
+               <p>Bring down therefore the figure of 10 upon the label, (which here ſtandeth but from 1) to 28 amongſt the parallels, and over againſt 4. or 40. on the label ſhall be found amongſt the parallels, the num<g ref="char:EOLhyphen"/>ber aforeſaid 1120; which in a large In<g ref="char:EOLhyphen"/>ſtrument may eaſily be diſcerned.</p>
+               <p>And in this manner may moſt Arith<g ref="char:EOLhyphen"/>meticall Proportions be found out, and Queſtions of the Golden Rule reſolved; as alſo Lines and Numbers may be in<g ref="char:EOLhyphen"/>creaſed in continuall proportion. And Mr. <hi>Gunter's</hi> Canons for Land meaſure, to find the contents of all oblong Super<g ref="char:EOLhyphen"/>ficies in Perches, Chaines, or Acres, may be made uſe of and reſolved by the In<g ref="char:EOLhyphen"/>ſtrument.</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:169895:13"/>
+               <head>Thus hath been ſhewed its uſe in the re<g ref="char:EOLhyphen"/>ſolution of Triangles, and in working proportions.</head>
+               <p>BEſides it is appliable to many other Mathematicall concluſions, as to find the length in parts of any Line of Signes, Tangents, Secants, and Cords, and ſo by conſequence is of great uſe in the Pro<g ref="char:EOLhyphen"/>jection of Spheares, deſcribing of Dials, whether Sciotericall, or Inſtrumentall.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To find the length of the Tan<g ref="char:EOLhyphen"/>gent line of any degree, to a Radius of</hi> 10000.</head>
+               <p>TUrne backe the left hand label to the left hand lamina, ſo as that it may make a Rightangle with the Radius, then turne the right hand label to the degree required in the Tangent line, and marking the place of its interſection with the other label, you ſhall there ſee amongſt the di<g ref="char:EOLhyphen"/>viſions of the left hand label the number of parts that ſuch a Tangent muſt be of.</p>
+               <pb n="20" facs="tcp:169895:14"/>
+               <p>As ſuppoſe the degree be 30, whoſe Tangent you would find; the labels being applyed unto each other, as aforeſaid, the parts intercepted in the left hand label, betwixt the right hand label, and the Ra<g ref="char:EOLhyphen"/>dius, ſhall be 5773, which muſt be the length of that Tangent.</p>
+               <p>But note, that if the Tangent be above 45 <hi>gr.</hi> then the right hand label muſt be applyed to the complement thereof, and then the parts intercepted ſhall reſemble the Radius, and the Radius of the Inſtru<g ref="char:EOLhyphen"/>ment ſhall repreſent the Tangent, and the proportion that the intercepted parts beare unto the Radius of the Inſtrument 10000, the ſame proportion ſhall the Radius of the Inſtrument 10000 beare unto the Tangent required.</p>
+               <p>As ſuppoſe you would find the Tan<g ref="char:EOLhyphen"/>gent of 60, apply the right hand label un<g ref="char:EOLhyphen"/>to its complement, that is the Tangent of 30 <hi>gr.</hi> and you ſhall find the parts inter<g ref="char:EOLhyphen"/>cepted, that repreſent the Radius of 60 <hi>gr.</hi> 5773. and the Radius of the Inſtru<g ref="char:EOLhyphen"/>ment that doth repreſent the Tangent 10000. I ſay then.</p>
+               <pb n="21" facs="tcp:169895:14"/>
+               <p>As 5773 the Radius found, to 10000, the Radius of the Inſtrument.</p>
+               <p>So 10000 the Radius of the Inſtru<g ref="char:EOLhyphen"/>ment, to 17320 the Tangent of 60 <hi>gr.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>And thus by proportion, may be found the length of the Tangent line for any degree even unto 90</hi> gr.</head>
+               <p>NOw then having known the length of the Tangent line in parts, it is ea<g ref="char:EOLhyphen"/>ſie (as is commonly known) to make Scales and prick down a Tangent line to a Cir<g ref="char:EOLhyphen"/>cle of any Semidiameter, which when it is done, the uſe thereof is ſo commonly known, that I need ſpeak nothing of it, but refer to Mr. <hi>Gunter</hi> and others that have written largely of its uſe.</p>
+            </div>
+            <div type="part">
+               <head>To find the length of a Secant for any degree.</head>
+               <p>THis is to be done juſt in the ſame manner as in the former propoſition the Tangent was to be found, only with this difference, that whereas the parts in<g ref="char:EOLhyphen"/>tercepted betwixt the interſection of the
+<pb n="22" facs="tcp:169895:15"/>labels and the Radius of the Inſtrument on the left hand label were to be reckoned for the Tangent, or elſe for a Radius un<g ref="char:EOLhyphen"/>to the Tangent repreſented by the Ra<g ref="char:EOLhyphen"/>dius of the Inſtrument: here the Secant is always to be found by obſerving the number of parts intercepted betwixt the center of the right hand label, and its in<g ref="char:EOLhyphen"/>terſection with the other label. This in the firſt of the two former examples, the Radius being found 10000, the Tangent 5773, the Secant ſhall be .11547, which is a Secant of 30 <hi>gr.</hi> but if the degree be above 45: then muſt we work by propor<g ref="char:EOLhyphen"/>tion as we did in the laſt, &amp; the proportion will hold thus. As the parts intercepted on the left hand labell, to the parts inter<g ref="char:EOLhyphen"/>cepted on the right hand label. So 10000 the Radius of the Inſtrument, to the parts of the Secant required. Thus in the forementioned example, the parts on the left hand label are 5773, on the right hand label 11547. I ſay then, As 5773, to 11547. So is 10000 to 20000.</p>
+               <p>Bring down therefore 5773 on the
+<pb n="23" facs="tcp:169895:15"/>left hand label, to 11547 amongſt the pa<g ref="char:EOLhyphen"/>rallels in the quadrant; and then 10000 upon the left hand labell will meet exact<g ref="char:EOLhyphen"/>ly with 20000 the ſecant of 60 <hi>gr.</hi> whoſe complement by which the worke was wrought is 30 <hi>gr.</hi>
+               </p>
+               <p>The uſe of this line in Trigonometry and Horography, I leave to be ſearched out in their Books, that have written largely of the uſe thereof.</p>
+            </div>
+            <div type="part">
+               <head>To find the length of a line of ſines for any degree.</head>
+               <p>THere is no more required to find out this, but to look the degree in the quadrant; then obſerving amongſt the pa<g ref="char:EOLhyphen"/>rallels, juſt meeeting with the degree: you ſhall find there the parts required. As if I would know the length of the Sine of 30 <hi>gr.</hi> caſting my eye upon the arch of the circle, where it is cut with the degree of 30: I find meeting exactly in that interſection the parallel of 5: or
+<pb n="24" facs="tcp:169895:16"/>5000. I conclude then, if the Radius be 10000. the ſine of 30 <hi>gr.</hi> muſt needs be 5000.</p>
+               <p>The uſe of this line I alſo referre to the writings of others, becauſe it is ſo com<g ref="char:EOLhyphen"/>monly treated of, and known of all.</p>
+            </div>
+            <div type="part">
+               <head>To find the length of a line of Chords for any degree.</head>
+               <p>THis line ſo often made uſe for the di<g ref="char:EOLhyphen"/>viding circles, or finding the quan<g ref="char:EOLhyphen"/>tity of any arch or angle, may be found with as great facility and delight as the three former; indeed it may be done with<g ref="char:EOLhyphen"/>out any more trouble, by doubling the ſine of halfe the arke, as if we would know the Chord of 60 <hi>gr.</hi> halfe its arke is 30 <hi>gr.</hi> the ſine whereof by the former propoſition, as 5000. which doubled, giveth 10000, the Chord required.</p>
+               <p>But it may be found with great delight and pleaſure by the inſtrument another way: as followeth.</p>
+               <p>Apply the edge of the right-hand la<g ref="char:EOLhyphen"/>bel,
+<pb n="25" facs="tcp:169895:16"/>exactly to the degree in the limbe of the quadrant; whoſe Chord you deſire, and the parts intercepted betwixt that degree and the center of the label, are the Chord of that degree: thus in the former exam<g ref="char:EOLhyphen"/>ple, the labell being applied to the 60 <hi>gr.</hi> the parts intercepted ſhal be exactly 10000, that is the radius, if applyed to the 30 <hi>gr.</hi> the parts intercepted will be 5176: which is the Chord of 30 <hi>gr.</hi> directly dou<g ref="char:EOLhyphen"/>ble to the ſine of 15 <hi>gr.</hi> 2588. which is half the arke.</p>
+            </div>
+            <div type="part">
+               <head>To find a line or number in con<g ref="char:EOLhyphen"/>tinuall proportion, having two numbers given</head>
+               <p>SUppoſe the numbers be 4: and 8: I ſay then.</p>
+               <p>As 4. to 8. So 8. to 16. So 16. to 32. &amp;c.</p>
+               <p>Bring down 8. on the left hand labell till it meet with 4 amongſt the parallels, then againſt 8 amongſt the parallels, ſhal be found 16, on the label, &amp; againſt 16 a<g ref="char:EOLhyphen"/>mongſt the parallels ſhal be found 32 on the labell, and ſo forward.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:169895:17"/>
+               <head>Having the Square and its Root to find the Cube there<g ref="char:EOLhyphen"/>of.</head>
+               <p>FOr as the Root is to the Square,</p>
+               <p>So is the Square unto the Cube.</p>
+               <p>As ſuppoſe, the Root be 3: and the Square 9: the Cube will be found to be 27.</p>
+               <p> work this.</p>
+               <p>Apply 9, on the left hand labell to 3: amongſt the parallels, and then 9, a<g ref="char:EOLhyphen"/>mongſt the parallels ſhall meet exactly with 27: the Cube required.</p>
+            </div>
+            <div type="part">
+               <head>Having the Cube and its Square whereof it was made to find the Root of both.</head>
+               <p>THis is to be wrought by working di<g ref="char:EOLhyphen"/>rectly contrary to the former pro<g ref="char:EOLhyphen"/>poſition.</p>
+               <p>For.</p>
+               <p>As the Cube is to the ſquare, ſo is the
+<pb n="27" facs="tcp:169895:17"/>ſquare unto the root, apply therefore the number, ſtanding for the cube and ſquare together, finding the one on the label the other amongſt the parallels, and then juſt over againſt the number for the ſquare ſhall ſtand the root. Always remembring that if the firſt number be found upon the label, the third number muſt then be ſearched there alſo: but if it be amongſt the parallels then the third muſt be a<g ref="char:EOLhyphen"/>mongſt them to, for the third number in theſe proportions is always to be found on that line or Scale where the firſt was; and the fourth on that line where the ſe<g ref="char:EOLhyphen"/>cond was: whether it be on the label or amongſt the parallels.</p>
+               <p>Many other things might be wrought by this Inſtrument; I have only given hints to thoſe that are more curious and have greater leaſure to follow theſe ſtu<g ref="char:EOLhyphen"/>dies, who I doubt not, but by their in<g ref="char:EOLhyphen"/>duſtry will be able from what I have ſaid to draw new concluſions, and from many pleaſing propoſitions conducing much to the ſatisfaction of thoſe that are ingeni<g ref="char:EOLhyphen"/>ous.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:169895:18"/>
+            <head>Poſtſcript.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Eader, thou haſte had the Inſtru<g ref="char:EOLhyphen"/>ment with its uſe, the Author now takes leave of thee for a time; if a favourable aſpect ſhine on this, thou maiſt eare long expect more, he hath another Inſtrument called an Horographi<g ref="char:EOLhyphen"/>call Spheare, whereby the whole Art of Di<g ref="char:EOLhyphen"/>alling, will moſt plainly be ſet forth to the view of all that underſtand the uſe of it; and Dialls of all ſorts may be delineated in all kind of Plaines with great ſpeed and plea<g ref="char:EOLhyphen"/>ſure, though they are never ſo full of Giboſi<g ref="char:EOLhyphen"/>ties or Concavities, which would puzzle the beſt Mathematician to reduce to form: he is now in hand with it, thou ſhalt heare more from him as he perceiveth this to find ex<g ref="char:EOLhyphen"/>ceptance.</hi>
+            </p>
+         </div>
+         <div type="advert_for_mathematical_instruments">
+            <p>
+               <seg rend="decorInit">T</seg>His Inſtrument called the Tri<g ref="char:EOLhyphen"/>gonall Sector, as alſo all other Mathematicall Inſtruments whatſoever, are exactly made by Mr, <hi>Anthony Thompſon</hi> in Hoſier-lane neer Smithfield, <hi>London.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169895:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
